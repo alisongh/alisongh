@@ -1,6 +1,8 @@
 ### Hi there 👋 This is Alison 🥰
 
-- 🌱 I’m currently learning Python at the University or Michigan
+- 🌱 I’m currently studying Data Science at the University or Michigan
+- 📫 How to reach me: liwenh@umich.edu
+- ⚡ Fun fact: EMT-B
 
 <!--
 **alisongh/alisongh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
