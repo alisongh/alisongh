@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋 This is Alison 🥰<h3>
+<h2 align="center"> Hi there 👋 This is Alison 🥰<h2>
   
 <p align="center">
   <a href="https://alisongh.github.io/">Website</a> | <a href="https://www.linkedin.com/in/alisonliwenhuang/">LinkedIn</a> | <a href="https://www.youtube.com/channel/UC78ZXf4LLCj0Yw4Lg3MHgdQ">YouTube</a>
