@@ -1,9 +1,15 @@
-### Hi there 👋 This is Alison 🥰
-[Website](https://alisongh.github.io/) | [LinkedIn](https://www.linkedin.com/in/alisonliwenhuang/) | [YouTube](https://www.youtube.com/channel/UC78ZXf4LLCj0Yw4Lg3MHgdQ)
+<h3 align="center"> Hi there 👋 This is Alison 🥰<h3>
+  
+<p align="center">
+  <a href="https://alisongh.github.io/">Website</a> | <a href="https://www.linkedin.com/in/alisonliwenhuang/">LinkedIn</a> | <a href="https://www.youtube.com/channel/UC78ZXf4LLCj0Yw4Lg3MHgdQ">YouTube</a>
+</p>
 
 - 🌱 I’m currently studying Data Science at the University or Michigan
 - 📫 How to reach me: liwenh@umich.edu
 - ⚡ Background: 👩‍⚕️EMT-B; ⚕️Combat Medic
+
+<h3> GitHub Status</h3>
+<a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
 
 <!--
 **alisongh/alisongh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
