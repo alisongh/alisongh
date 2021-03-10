@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Data Science at the University or Michigan
 - 📫 How to reach me: liwenh@umich.edu
-- ⚡ Fun fact: EMT-B
+- ⚡ Background: 👩‍⚕️EMT-B; ⚕️Combat Medic
 
 <!--
 **alisongh/alisongh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
