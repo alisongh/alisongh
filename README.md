@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <h3> Working on</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/alisongh/MADS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alisongh&repo=MADS)](https://github.com/alisongh/MADS)
 
