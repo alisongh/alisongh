@@ -4,9 +4,7 @@
   <a href="http://alisonggggg.com/">Website</a> | <a href="https://www.linkedin.com/in/alisonliwenhuang/">LinkedIn</a> | <a href="https://www.youtube.com/channel/UC78ZXf4LLCj0Yw4Lg3MHgdQ">YouTube</a>
 </p>
 
-- 🌱 I’m currently studying Data Science at the University or Michigan
-- 📫 How to reach me: liwenh@umich.edu
-- ⚡ Background: 👩‍⚕️EMT-B; ⚕️Combat Medic
+Delete MADS repo. If you have any MADS/SIADS assignment question, feel free to contact me.
 
 <h3> GitHub Status</h3>
 <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
@@ -28,5 +26,4 @@ Here are some ideas to get you started:
 
 <h3> Working on</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alisongh&repo=MADS)](https://github.com/alisongh/MADS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alisongh&repo=Mining-Massive-Datasets)](https://github.com/alisongh/Mining-Massive-Datasets)
