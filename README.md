@@ -6,6 +6,8 @@
 
 Delete MADS repo. If you have any MADS/SIADS assignment question, feel free to contact me. liwenh@umich.edu
 
+[MADS Course Reviews](https://github.com/alisongh/MADS-Reviews.git)
+
 <h3> GitHub Status</h3>
 <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
 
