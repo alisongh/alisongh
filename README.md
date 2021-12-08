@@ -4,8 +4,6 @@
   <a href="http://alisonggggg.com/">Website</a> | <a href="https://www.linkedin.com/in/alisonliwenhuang/">LinkedIn</a> | <a href="https://www.youtube.com/channel/UC78ZXf4LLCj0Yw4Lg3MHgdQ">YouTube</a>
 </p>
 
-Delete MADS repo. If you have any MADS/SIADS assignment question, feel free to contact me. liwenh@umich.edu
-
 [MADS Course Reviews](https://github.com/alisongh/MADS-Reviews.git)
 
 <h3> GitHub Status</h3>
