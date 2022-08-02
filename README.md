@@ -7,7 +7,7 @@
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=README)
 
 
-<a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&theme=buefy&count_private=true&hide=contribs,prs&hide_border=true"></a> |  <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisongh&layout=compact&hide_border=true"></a>
+<a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&theme=buefy&count_private=true&hide=contribs,prs&hide_border=true"></a> |  <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisongh&langs_count=6&layout=compact&hide_border=true"></a>
 | ------------- | ------------- |
 
 <h3> WakaTime</h3>
