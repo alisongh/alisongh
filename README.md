@@ -5,7 +5,7 @@
 </p>
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=README)
-<a href="https://wakatime.com/badge/github/alisongh/notion_connect"><img src="https://wakatime.com/badge/github/alisongh/notion_connect.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@4f48c9db-fbf2-48dc-be5e-5d990092653c"><img src="https://wakatime.com/badge/user/4f48c9db-fbf2-48dc-be5e-5d990092653c.svg" alt="Total time coded since Aug 1 2022" /></a>
 
 <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&theme=buefy&count_private=true&hide=contribs,prs&hide_border=true"></a> |  <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisongh&langs_count=6&layout=compact&hide_border=true"></a>
 | ------------- | ------------- |
