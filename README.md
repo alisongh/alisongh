@@ -6,14 +6,12 @@
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=README)
 
-<h3> GitHub Status</h3>
-<a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&theme=buefy&count_private=true&hide=contribs,prs"></a>
+
+<a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alisongh&theme=buefy&count_private=true&hide=contribs,prs&hide_border=true"></a> |  <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisongh&layout=compact&hide_border=true"></a>
+| ------------- | ------------- |
 
 <h3> WakaTime</h3>
 <a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=alisongh)"></a>
-
-<h3> Top languages </h3>
-<a href="https://github.com/alisongh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisongh&layout=compact"></a>
 
 <!--
 **alisongh/alisongh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
