@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3> Working on</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alisongh&repo=SIADS-696-Milestone-II)](https://github.com/alisongh/SIADS-696-Milestone-II)
